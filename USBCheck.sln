@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "USBCheck", "USBCheck\USBCheck.csproj", "{8C5AD30A-669F-4DA4-9FAE-163EA2A8FE71}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "USBCheckInstaller", "USBCheckInstaller\USBCheckInstaller.vdproj", "{621A258A-4DF0-409E-B093-2082F1CA04A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C5AD30A-669F-4DA4-9FAE-163EA2A8FE71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C5AD30A-669F-4DA4-9FAE-163EA2A8FE71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C5AD30A-669F-4DA4-9FAE-163EA2A8FE71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C5AD30A-669F-4DA4-9FAE-163EA2A8FE71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{621A258A-4DF0-409E-B093-2082F1CA04A1}.Debug|Any CPU.ActiveCfg = Debug
+		{621A258A-4DF0-409E-B093-2082F1CA04A1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75A95911-6ED6-4BC5-8A5B-F9D383F6DFB2}
+	EndGlobalSection
+EndGlobal
